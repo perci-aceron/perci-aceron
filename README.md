@@ -14,9 +14,6 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=perci-aceron&theme=tokyo-night" alt="GitHub Activity Graph"/>
 
-  ![GitHub Snake Animation](https://github.com/your-username/snk/blob/output/github-snake.svg)
-
-
   <a href="https://www.codewars.com/users/perci-aceron">
     <img src="https://github.r2v.ch/codewars?user=perci-aceron&top_languages=true&hide_clan=true&stroke=%23BB432C&theme=gradient_dark_by_level" alt="Codewars Badge"/>
   </a>
