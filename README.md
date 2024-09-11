@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning ...web development and looking for internship 
 - 💞️ I’m looking to collaborate on ...newbie projects to further enhance my understanding and learning
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+---
+
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=perci-aceron&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
