@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 - 👋 Hi, I’m @perci-aceron
 - 👀 I’m interested in ...coding, console games
 - 🌱 I’m currently learning ...web development and looking for internship 
