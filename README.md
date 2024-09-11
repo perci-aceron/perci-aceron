@@ -3,7 +3,7 @@
 - 👀 I’m interested in ...coding, console games
 - 🌱 I’m currently learning ...web development and looking for internship 
 - 💞️ I’m looking to collaborate on ...newbie projects to further enhance my understanding and learning
-- 📫 How to reach me ...perci.aceron@gmail.com, [Twitter](https://twitter.com/percival_aceron)
+- 📫 How to reach me ... perci.aceron@gmail.com, [Twitter](https://twitter.com/percival_aceron)
 
 <div align="center">
   
