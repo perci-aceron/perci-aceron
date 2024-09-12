@@ -1,11 +1,11 @@
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ![Header](./github-header-image.png)
 
 - 👀 I’m interested in ...coding, console games
 - 🌱 I’m currently learning ...web development and looking for internship 
 - 💞️ I’m looking to collaborate on ...newbie projects to further enhance my understanding and learning
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <div align="center">
   
