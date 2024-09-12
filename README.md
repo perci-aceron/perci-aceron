@@ -6,6 +6,8 @@
 
 - 💞️ I’m looking to collaborate on ...newbie projects to further enhance my understanding and learning
 
+<!--START_SECTION:activity-->
+
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=perci-aceron&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
@@ -27,9 +29,7 @@
   </a>
 
 ---
-
 </div>
-
 
 <!---
 perci-aceron/perci-aceron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
