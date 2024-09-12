@@ -12,7 +12,7 @@
 ### 💻 Tech Stacks I'm Learning and Using
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
   </a>
 </p>
 
