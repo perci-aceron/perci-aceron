@@ -1,8 +1,26 @@
 ![Header](./images/github-header-image.webp)
 
 - 👀 I’m interested in... coding, console games
-- 🌱 I’m currently learning... web development and looking for internship 
+  
+- 🌱 I’m currently learning... web development and looking for internship
+  
 - 💞️ I’m looking to collaborate on... newbie projects to further enhance my understanding and learning
+
+  
+### :laptop: Tech Stacks I'm Learning and Using
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  </a>
+</p>
+
 
 ---
 
