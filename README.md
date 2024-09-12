@@ -4,9 +4,13 @@
 - 🌱 I’m currently learning ...web development and looking for internship 
 - 💞️ I’m looking to collaborate on ...newbie projects to further enhance my understanding and learning
 
+---
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ---
 
