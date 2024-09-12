@@ -9,7 +9,7 @@
 ---
 
 
-### 💻 Tech Stacks I'm Learning and Using
+### 💻 Tech Stacks I'm Learning && Using
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
