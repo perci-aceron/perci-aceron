@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on... newbie projects to further enhance my understanding and learning
 
   
-### :laptop: Tech Stacks I'm Learning and Using
+### 💻 Tech Stacks I'm Learning and Using
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git" />
