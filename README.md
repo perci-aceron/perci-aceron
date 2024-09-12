@@ -36,22 +36,13 @@
   <img src="https://github.com/perci-aceron/perci-aceron/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="Github Snake"/>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-
 ---
-
 
   <a href="https://www.codewars.com/users/perci-aceron">
 
     <img src="https://github.r2v.ch/codewars?user=perci-aceron&top_languages=true&hide_clan=true&stroke=%23BB432C&theme=gradient_dark_by_level" alt="Codewars Badge"/>
 
   </a>
-
 
 ---
 
