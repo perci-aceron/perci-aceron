@@ -19,16 +19,22 @@
 ---
 
 <div align="center">
+
   
   <img src="https://github-readme-stats.vercel.app/api?username=perci-aceron&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
   
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=perci-aceron&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci-aceron&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+  
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=perci-aceron&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  
 
   <img src="https://github.com/perci-aceron/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="Github Snake"/>
+  
 
 ---
 
