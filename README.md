@@ -33,7 +33,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=perci-aceron&theme=tokyo-night" alt="GitHub Activity Graph"/>
 
 
-  <img src="https://github.com/perci-aceron/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="Github Snake"/>
+  <!--- <img src="https://github.com/perci-aceron/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="Github Snake"/> --->
 
 
 <picture>
