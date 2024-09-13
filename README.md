@@ -11,11 +11,15 @@
 
 ### 💻 Tech Stacks I'm Learning && Using
 <p align="center">
+  <a href="https://github.com/perci-aceron">
     <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,github" />
+  </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/perci-aceron">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,astro"" />
+  <a/>
 </p>
 
 ---
