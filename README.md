@@ -57,7 +57,6 @@
 
 ### 🏆 Coding Challenge
 
-
 <div align="center">
   
   <a href="https://www.codewars.com/users/perci-aceron">
