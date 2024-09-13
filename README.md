@@ -11,18 +11,12 @@
 
 ### 💻 Tech Stacks I'm Learning && Using
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,github" />
-  </a>
 </p>
-
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,astro" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,astro"" />
 </p>
-
 
 ---
 
