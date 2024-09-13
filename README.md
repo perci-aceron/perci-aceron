@@ -10,7 +10,7 @@
 
 
 ### 💻 Tech Stacks I'm Learning && Using
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
 
   <div align="center">
     <p align="center">
@@ -30,6 +30,7 @@
   </div>
 
 </div>
+
 
 
 ---
