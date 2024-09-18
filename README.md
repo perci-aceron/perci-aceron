@@ -34,11 +34,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/bizgrowthmarketers/seo-services/pull/15) in [bizgrowthmarketers/seo-services](https://github.com/bizgrowthmarketers/seo-services)
-2. 💪 Opened PR [#14](https://github.com/bizgrowthmarketers/seo-services/pull/14) in [bizgrowthmarketers/seo-services](https://github.com/bizgrowthmarketers/seo-services)
-3. 🎉 Merged PR [#48](https://github.com/bizgrowthmarketers/webdev-services/pull/48) in [bizgrowthmarketers/webdev-services](https://github.com/bizgrowthmarketers/webdev-services)
-4. 🎉 Merged PR [#47](https://github.com/bizgrowthmarketers/webdev-services/pull/47) in [bizgrowthmarketers/webdev-services](https://github.com/bizgrowthmarketers/webdev-services)
-5. 🎉 Merged PR [#10](https://github.com/bizgrowthmarketers/seo-services/pull/10) in [bizgrowthmarketers/seo-services](https://github.com/bizgrowthmarketers/seo-services)
+1. 🎉 Merged PR [#1](https://github.com/perci-aceron/skills-introduction-to-github/pull/1) in [perci-aceron/skills-introduction-to-github](https://github.com/perci-aceron/skills-introduction-to-github)
+2. 💪 Opened PR [#1](https://github.com/perci-aceron/skills-introduction-to-github/pull/1) in [perci-aceron/skills-introduction-to-github](https://github.com/perci-aceron/skills-introduction-to-github)
+3. 🎉 Merged PR [#15](https://github.com/bizgrowthmarketers/seo-services/pull/15) in [bizgrowthmarketers/seo-services](https://github.com/bizgrowthmarketers/seo-services)
+4. 💪 Opened PR [#14](https://github.com/bizgrowthmarketers/seo-services/pull/14) in [bizgrowthmarketers/seo-services](https://github.com/bizgrowthmarketers/seo-services)
+5. 🎉 Merged PR [#48](https://github.com/bizgrowthmarketers/webdev-services/pull/48) in [bizgrowthmarketers/webdev-services](https://github.com/bizgrowthmarketers/webdev-services)
 <!--END_SECTION:activity-->
 
 ---
