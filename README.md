@@ -13,25 +13,22 @@
 
 
   <div align="center">
-    <p align="center">
-      
-      <a href="https://github.com/perci-aceron">
-        <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,github" />
-      </a>
-      
-    </p>
-    <p align="center">
-    
-      <a href="https://github.com/perci-aceron">
-        <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,astro" />
-      </a>
-      
-    </p>
-  </div>
+  <p align="center">
+    <a href="https://github.com/perci-aceron">
+      <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,github" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/perci-aceron">
+      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,astro" />
+    </a>
+  </p>
+</div>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci-aceron&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci-aceron&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+</div>
+
 
 
 ---
