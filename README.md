@@ -47,6 +47,8 @@
 
 ### :chart_with_upwards_trend: Stats
 <div align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=perci-aceron&theme=tokyonight&hide_border=false)
+
   <img src="https://github.com/perci-aceron/perci-aceron/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="Github Snake"/>
   <a href="https://github.com/perci-aceron">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=perci-aceron&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
