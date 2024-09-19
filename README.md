@@ -36,11 +36,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/perci-aceron/skills-introduction-to-github/pull/1) in [perci-aceron/skills-introduction-to-github](https://github.com/perci-aceron/skills-introduction-to-github)
-2. 💪 Opened PR [#1](https://github.com/perci-aceron/skills-introduction-to-github/pull/1) in [perci-aceron/skills-introduction-to-github](https://github.com/perci-aceron/skills-introduction-to-github)
-3. 🎉 Merged PR [#15](https://github.com/bizgrowthmarketers/seo-services/pull/15) in [bizgrowthmarketers/seo-services](https://github.com/bizgrowthmarketers/seo-services)
-4. 💪 Opened PR [#14](https://github.com/bizgrowthmarketers/seo-services/pull/14) in [bizgrowthmarketers/seo-services](https://github.com/bizgrowthmarketers/seo-services)
-5. 🎉 Merged PR [#48](https://github.com/bizgrowthmarketers/webdev-services/pull/48) in [bizgrowthmarketers/webdev-services](https://github.com/bizgrowthmarketers/webdev-services)
+1. 🎉 Merged PR [#5](https://github.com/bizgrowthmarketers/paid-ads-services/pull/5) in [bizgrowthmarketers/paid-ads-services](https://github.com/bizgrowthmarketers/paid-ads-services)
+2. 🎉 Merged PR [#1](https://github.com/perci-aceron/skills-reusable-workflows/pull/1) in [perci-aceron/skills-reusable-workflows](https://github.com/perci-aceron/skills-reusable-workflows)
+3. 💪 Opened PR [#1](https://github.com/perci-aceron/skills-reusable-workflows/pull/1) in [perci-aceron/skills-reusable-workflows](https://github.com/perci-aceron/skills-reusable-workflows)
+4. 🔒 Closed issue [#1](https://github.com/perci-aceron/skills-write-javascript-actions/issues/1) in [perci-aceron/skills-write-javascript-actions](https://github.com/perci-aceron/skills-write-javascript-actions)
+5. ❗ Opened issue [#4](https://github.com/bizgrowthmarketers/paid-ads-services/issues/4) in [bizgrowthmarketers/paid-ads-services](https://github.com/bizgrowthmarketers/paid-ads-services)
 <!--END_SECTION:activity-->
 
 ---
