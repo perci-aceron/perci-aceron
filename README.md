@@ -63,11 +63,11 @@
 ### 🏆 Coding Challenge
 
 <div align="center">
-  
   <a href="https://www.codewars.com/users/perci-aceron">
+    
     <img src="https://github.r2v.ch/codewars?user=perci-aceron&top_languages=true&hide_clan=true&stroke=%23BB432C&theme=gradient_dark_by_level" alt="Codewars Badge"/>
+    
   </a>
-  
 </div>
 
 
