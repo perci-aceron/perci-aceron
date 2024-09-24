@@ -7,7 +7,9 @@
 - 💞️ I’m looking to collaborate on... newbie projects to further enhance my understanding and learning
 
 ---
-
+<a href="https://x.com/percival_aceron" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px">
+</a>
 
 ### 💻 Tech Stacks I'm Learning && Using
 
