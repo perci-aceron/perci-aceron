@@ -14,7 +14,7 @@
 ### 💻 Tech Stacks I'm Learning && Using
 
 
- 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci-aceron&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="display: inline"/>
   <p align="center">
     <a href="https://github.com/perci-aceron">
       <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,github" />
@@ -26,7 +26,7 @@
     </a>
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci-aceron&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="display: inline"/>
+  
 
 
 
