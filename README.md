@@ -36,11 +36,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/bizgrowthmarketers/paid-ads-services/pull/9) in [bizgrowthmarketers/paid-ads-services](https://github.com/bizgrowthmarketers/paid-ads-services)
-2. 🎉 Merged PR [#8](https://github.com/bizgrowthmarketers/paid-ads-services/pull/8) in [bizgrowthmarketers/paid-ads-services](https://github.com/bizgrowthmarketers/paid-ads-services)
-3. 🎉 Merged PR [#6](https://github.com/bizgrowthmarketers/paid-ads-services/pull/6) in [bizgrowthmarketers/paid-ads-services](https://github.com/bizgrowthmarketers/paid-ads-services)
-4. ❌ Closed PR [#50](https://github.com/bizgrowthmarketers/webdev-services/pull/50) in [bizgrowthmarketers/webdev-services](https://github.com/bizgrowthmarketers/webdev-services)
-5. 💪 Opened PR [#49](https://github.com/bizgrowthmarketers/webdev-services/pull/49) in [bizgrowthmarketers/webdev-services](https://github.com/bizgrowthmarketers/webdev-services)
+1. 💪 Opened PR [#51](https://github.com/bizgrowthmarketers/webdev-services/pull/51) in [bizgrowthmarketers/webdev-services](https://github.com/bizgrowthmarketers/webdev-services)
+2. 🎉 Merged PR [#9](https://github.com/bizgrowthmarketers/paid-ads-services/pull/9) in [bizgrowthmarketers/paid-ads-services](https://github.com/bizgrowthmarketers/paid-ads-services)
+3. 🎉 Merged PR [#8](https://github.com/bizgrowthmarketers/paid-ads-services/pull/8) in [bizgrowthmarketers/paid-ads-services](https://github.com/bizgrowthmarketers/paid-ads-services)
+4. 🎉 Merged PR [#6](https://github.com/bizgrowthmarketers/paid-ads-services/pull/6) in [bizgrowthmarketers/paid-ads-services](https://github.com/bizgrowthmarketers/paid-ads-services)
+5. ❌ Closed PR [#50](https://github.com/bizgrowthmarketers/webdev-services/pull/50) in [bizgrowthmarketers/webdev-services](https://github.com/bizgrowthmarketers/webdev-services)
 <!--END_SECTION:activity-->
 
 ---
