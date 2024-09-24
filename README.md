@@ -8,7 +8,9 @@
 
 - 📬 Reach me through:
 <p align="center"><a href="https://www.linkedin.com/in/percival-aceron" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a> <a href="https://www.facebook.com/perci.aceron.1010" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="https://x.com/percival_aceron" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="mailto:perci.aceron@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 16px"></a></p>
+
 ---
+
 ### 💻 Tech Stacks I'm Learning && Using
 
   <p align="center">
@@ -24,7 +26,9 @@
  <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci-aceron&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="display: inline"/>
 </div>
+
 ---
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -47,10 +51,8 @@
     <img src='https://roadmap.sh/card/tall/66b3fcd5e70e3d56229c6879?variant=dark' alt='roadmap card'/>
   </a>
 </div> 
-
-  
+ 
 ---
-
 
 ### 🏆 Coding Challenge
 
@@ -59,7 +61,6 @@
     <img src="https://github.r2v.ch/codewars?user=perci-aceron&top_languages=true&hide_clan=true&stroke=%23BB432C&theme=gradient_dark_by_level" alt="Codewars Badge"/>
   </a>
 </div>
-
 
 ---
 
