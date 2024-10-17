@@ -32,11 +32,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/bizgrowthmarketers/paid-ads-services/pull/18) in [bizgrowthmarketers/paid-ads-services](https://github.com/bizgrowthmarketers/paid-ads-services)
-2. 🎉 Merged PR [#76](https://github.com/bizgrowthmarketers/webdev-services/pull/76) in [bizgrowthmarketers/webdev-services](https://github.com/bizgrowthmarketers/webdev-services)
-3. 🎉 Merged PR [#17](https://github.com/bizgrowthmarketers/paid-ads-services/pull/17) in [bizgrowthmarketers/paid-ads-services](https://github.com/bizgrowthmarketers/paid-ads-services)
-4. 🎉 Merged PR [#21](https://github.com/bizgrowthmarketers/seo-services/pull/21) in [bizgrowthmarketers/seo-services](https://github.com/bizgrowthmarketers/seo-services)
-5. 🎉 Merged PR [#74](https://github.com/bizgrowthmarketers/webdev-services/pull/74) in [bizgrowthmarketers/webdev-services](https://github.com/bizgrowthmarketers/webdev-services)
+1. 🎉 Merged PR [#77](https://github.com/bizgrowthmarketers/webdev-services/pull/77) in [bizgrowthmarketers/webdev-services](https://github.com/bizgrowthmarketers/webdev-services)
+2. 💪 Opened PR [#77](https://github.com/bizgrowthmarketers/webdev-services/pull/77) in [bizgrowthmarketers/webdev-services](https://github.com/bizgrowthmarketers/webdev-services)
+3. 🎉 Merged PR [#24](https://github.com/bizgrowthmarketers/seo-services/pull/24) in [bizgrowthmarketers/seo-services](https://github.com/bizgrowthmarketers/seo-services)
+4. 💪 Opened PR [#24](https://github.com/bizgrowthmarketers/seo-services/pull/24) in [bizgrowthmarketers/seo-services](https://github.com/bizgrowthmarketers/seo-services)
+5. 🎉 Merged PR [#23](https://github.com/bizgrowthmarketers/seo-services/pull/23) in [bizgrowthmarketers/seo-services](https://github.com/bizgrowthmarketers/seo-services)
 <!--END_SECTION:activity-->
 
 ---
